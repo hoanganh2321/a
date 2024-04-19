@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import requests
 
-BotToken = 'MTIzMDgyMjMwNTg3NDA1MTEwMw.Gd46Wv.qCByojUn_uqD6pC7RVww-M-H3KH8pz19yy--lw'
+BotToken = 'MTIzMDgyMjMwNTg3NDA1MTEwMw.Gin2DT.KT4_8MkqhbKmiOXNxZnY4meVy6-TcszidBlNIo'
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
 
 @bot.event
